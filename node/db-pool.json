@@ -1,0 +1,12 @@
+{
+  "host": "dbaas-db-3610164-do-user-13607565-0.b.db.ondigitalocean.com",
+  "user": "doadmin",
+  "password": "AVNS_KzDFwdvl6FC9E7K4HQJ",
+  "database":"defaultdb",
+  "port":"25060",
+  "debug":false,
+"connectionLimit": 10,
+    "acquireTimeout": 30000,
+    "waitForConnections": true,
+"multipleStatements": true
+}
